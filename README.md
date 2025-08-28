@@ -176,4 +176,6 @@ Output:
 
 ![WhatsApp Image 2025-08-28 at 10 57 02_920dd768](https://github.com/user-attachments/assets/224b2a41-224f-45b0-ab77-112d08791b1e)
 
+**Result**
 
+The program is executed successfully
